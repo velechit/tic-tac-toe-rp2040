@@ -1,0 +1,5 @@
+#ifndef __POP2040_GAME_TYPES_H
+#define __POP2040_GAME_TYPES_H
+
+
+#endif /* ! __POP2040_GAME_TYPES_H */
